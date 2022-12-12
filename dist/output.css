@@ -856,6 +856,10 @@ video {
   text-transform: uppercase;
 }
 
+.italic{
+  font-style: italic;
+}
+
 .leading-tight{
   line-height: 1.25;
 }
@@ -873,6 +877,15 @@ video {
 .text-brightRed{
   --tw-text-opacity: 1;
   color: hsl(12 88% 59% / var(--tw-text-opacity));
+}
+
+.text-purple-700{
+  --tw-text-opacity: 1;
+  color: rgb(126 34 206 / var(--tw-text-opacity));
+}
+
+.underline{
+  text-decoration-line: underline;
 }
 
 .shadow-2xl{
