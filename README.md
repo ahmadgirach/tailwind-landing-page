@@ -1,4 +1,4 @@
-**Landing** page using Tailwind CSS. <a href="https://www.youtube.com/watch?v=dFgzHOX84xQ" target="_blank" rel="noopener noreferrer">Course reference</a>
+Landing page using Tailwind CSS. [Course Reference.](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 
 Setup
 
